@@ -1,0 +1,314 @@
+{
+  "deployments": [
+    [
+      "yauu8b",
+      {
+        "id": "yauu8b",
+        "repoUrl": "https://github.com/Kshatriyaswami/tentacion-cakes-menu",
+        "repoId": 1126274614,
+        "platform": "Netlify",
+        "authToken": "nfp_5CGyCuWvQzd4aUyckVuuasbeMxajg4Yp9d0b",
+        "status": "success",
+        "logs": [
+          "[8:28:22 pm] Cloning https://github.com/Kshatriyaswami/tentacion-cakes-menu to: D:\\one_click_deployment\\temp_deployments\\deploy-yauu8b",
+          "[8:28:31 pm] Repository cloned successfully.",
+          "[8:28:31 pm] Zipping files for Netlify...",
+          "[8:28:31 pm] Installing dependencies & building locally...",
+          "[8:28:53 pm] Found build directory: dist",
+          "[8:28:53 pm] Created Zip archive.",
+          "[8:28:53 pm] Creating Netlify site (attempting name: tentacion-cakes-menu)...",
+          "[8:28:59 pm] Site ready: tentacion-cakes-menu. Uploading Zip...",
+          "[8:29:30 pm] Upload complete."
+        ],
+        "timestamp": "2026-02-06T14:58:22.934Z",
+        "url": "https://tentacion-cakes-menu.netlify.app"
+      }
+    ],
+    [
+      "3vewuk",
+      {
+        "id": "3vewuk",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "repoId": 1151480555,
+        "platform": "Netlify",
+        "authToken": "nfp_5CGyCuWvQzd4aUyckVuuasbeMxajg4Yp9d0b",
+        "status": "deploying",
+        "logs": [
+          "[8:34:45 pm] Cloning https://github.com/Kshatriyaswami/randomdevtool to: D:\\one_click_deployment\\temp_deployments\\deploy-3vewuk",
+          "[8:34:47 pm] Repository cloned successfully.",
+          "[8:34:47 pm] Zipping files for Netlify...",
+          "[8:34:47 pm] Installing dependencies & building locally...",
+          "[8:35:17 pm] Build failed. Zipping source...",
+          "[8:35:45 pm] Created Zip archive.",
+          "[8:35:45 pm] Creating Netlify site (attempting name: randomdevtool)...",
+          "[8:35:48 pm] First attempt to create site 'randomdevtool' failed: 422 - {\"errors\":{\"subdomain\":[\"must be unique\"]}}",
+          "[8:35:53 pm] Site ready: fluffy-seahorse-5318b9. Uploading Zip..."
+        ],
+        "timestamp": "2026-02-06T15:04:45.948Z",
+        "url": null
+      }
+    ],
+    [
+      "9juxz",
+      {
+        "id": "9juxz",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "repoId": 1151480555,
+        "platform": "Netlify",
+        "authToken": "nfp_5CGyCuWvQzd4aUyckVuuasbeMxajg4Yp9d0b",
+        "status": "building",
+        "logs": [
+          "[8:38:34 pm] Cloning https://github.com/Kshatriyaswami/randomdevtool to: D:\\one_click_deployment\\temp_deployments\\deploy-9juxz",
+          "[8:38:35 pm] Repository cloned successfully.",
+          "[8:38:35 pm] Zipping files for Netlify...",
+          "[8:38:35 pm] Installing dependencies & building locally..."
+        ],
+        "timestamp": "2026-02-06T15:08:34.007Z",
+        "url": null
+      }
+    ],
+    [
+      "ap478",
+      {
+        "id": "ap478",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "repoId": 1151480555,
+        "platform": "Netlify",
+        "authToken": "nfp_CKBS5daUoYbxZA2wa3CKai1g6zNF2huy42ed",
+        "status": "deploying",
+        "logs": [
+          "[8:40:58 pm] Cloning https://github.com/Kshatriyaswami/randomdevtool to: D:\\one_click_deployment\\temp_deployments\\deploy-ap478",
+          "[8:41:00 pm] Repository cloned successfully.",
+          "[8:41:00 pm] Zipping files for Netlify...",
+          "[8:41:00 pm] Installing dependencies & building locally...",
+          "[8:41:30 pm] Build failed. Zipping source...",
+          "[8:41:56 pm] Created Zip archive.",
+          "[8:41:56 pm] Creating Netlify site (attempting name: randomdevtool)...",
+          "[8:42:00 pm] Site ready: randomdevtool. Uploading Zip..."
+        ],
+        "timestamp": "2026-02-06T15:10:58.291Z",
+        "url": null
+      }
+    ],
+    [
+      "ygogxm",
+      {
+        "id": "ygogxm",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "repoId": 1151480555,
+        "platform": "Netlify",
+        "authToken": "nfp_CKBS5daUoYbxZA2wa3CKai1g6zNF2huy42ed",
+        "status": "deploying",
+        "logs": [
+          "[8:54:30 pm] Cloning https://github.com/Kshatriyaswami/randomdevtool to: D:\\one_click_deployment\\temp_deployments\\deploy-ygogxm",
+          "[8:54:31 pm] Repository cloned successfully.",
+          "[8:54:31 pm] Zipping files for Netlify...",
+          "[8:54:31 pm] Installing dependencies & building locally...",
+          "[8:54:53 pm] Build failed. Zipping source...",
+          "[8:55:21 pm] Created Zip archive.",
+          "[8:55:21 pm] Creating Netlify site (attempting name: randomdevtool)...",
+          "[8:55:25 pm] Site ready: randomdevtool. Uploading Zip..."
+        ],
+        "timestamp": "2026-02-06T15:24:30.122Z",
+        "url": null
+      }
+    ],
+    [
+      "vhq26e",
+      {
+        "id": "vhq26e",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "repoId": 1151480555,
+        "platform": "Vercel",
+        "authToken": "egJjCSdMxEuE2MQM0AwXDplz",
+        "status": "building",
+        "logs": [
+          "[8:56:51 pm] Cloning https://github.com/Kshatriyaswami/randomdevtool to: D:\\one_click_deployment\\temp_deployments\\deploy-vhq26e",
+          "[8:56:53 pm] Repository cloned successfully.",
+          "[8:56:53 pm] Preparing files for upload...",
+          "[8:56:53 pm] Found 29 files to process.",
+          "[8:56:57 pm] All files uploaded to Vercel storage.",
+          "[8:56:57 pm] Initiating deployment...",
+          "[8:56:58 pm] Deployment initiated. ID: dpl_AsrFVspRTGBD6qXKmi5tREHqBVhY"
+        ],
+        "timestamp": "2026-02-06T15:26:51.874Z",
+        "url": null
+      }
+    ],
+    [
+      "x3dmsb",
+      {
+        "id": "x3dmsb",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "repoId": 1151480555,
+        "platform": "Vercel",
+        "authToken": "egJjCSdMxEuE2MQM0AwXDplz",
+        "status": "success",
+        "logs": [
+          "[8:58:14 pm] Cloning https://github.com/Kshatriyaswami/randomdevtool to: D:\\one_click_deployment\\temp_deployments\\deploy-x3dmsb",
+          "[8:58:16 pm] Repository cloned successfully.",
+          "[8:58:16 pm] Preparing files for upload...",
+          "[8:58:16 pm] Found 29 files to process.",
+          "[8:58:20 pm] All files uploaded to Vercel storage.",
+          "[8:58:20 pm] Initiating deployment...",
+          "[8:58:22 pm] Deployment initiated. ID: dpl_HDwPHVjJxPcmGS7rqvSYKgyWXC2A",
+          "[8:58:25 pm] Vercel Status: BUILDING",
+          "[8:58:29 pm] Vercel Status: BUILDING",
+          "[8:58:32 pm] Vercel Status: BUILDING",
+          "[8:58:36 pm] Vercel Status: BUILDING",
+          "[8:58:39 pm] Deployment completed successfully!"
+        ],
+        "timestamp": "2026-02-06T15:28:14.849Z",
+        "url": "https://randomdevtool-pbygz82zu-swamis-projects-c46278af.vercel.app"
+      }
+    ],
+    [
+      "t3wetf",
+      {
+        "id": "t3wetf",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "repoId": 1151533695,
+        "platform": "Vercel",
+        "authToken": "egJjCSdMxEuE2MQM0AwXDplz",
+        "status": "success",
+        "logs": [
+          "[9:05:24 pm] Cloning https://github.com/Kshatriyaswami/randomdevtool to: D:\\one_click_deployment\\temp_deployments\\deploy-t3wetf",
+          "[9:05:26 pm] Repository cloned successfully.",
+          "[9:05:26 pm] Preparing files for upload...",
+          "[9:05:26 pm] Found 29 files to process.",
+          "[9:05:29 pm] All files uploaded to Vercel storage.",
+          "[9:05:29 pm] Initiating deployment...",
+          "[9:05:31 pm] Deployment initiated. ID: dpl_9K7gLbT2TKwdwRDyy2DfheBL8SqB",
+          "[9:05:34 pm] Vercel Status: BUILDING",
+          "[9:05:38 pm] Vercel Status: BUILDING",
+          "[9:05:41 pm] Vercel Status: BUILDING",
+          "[9:05:45 pm] Vercel Status: BUILDING",
+          "[9:05:48 pm] Deployment completed successfully!"
+        ],
+        "timestamp": "2026-02-06T15:35:24.686Z",
+        "url": "https://randomdevtool-piwgo4pyi-swamis-projects-c46278af.vercel.app"
+      }
+    ],
+    [
+      "4svv2d",
+      {
+        "id": "4svv2d",
+        "repoUrl": "https://github.com/Kshatriyaswami/rabdomdeploymenttool",
+        "repoId": 1152154247,
+        "platform": "Vercel",
+        "authToken": "egJjCSdMxEuE2MQM0AwXDplz",
+        "status": "success",
+        "logs": [
+          "[6:28:52 pm] Cloning https://github.com/Kshatriyaswami/rabdomdeploymenttool to: D:\\one_click_deployment\\temp_deployments\\deploy-4svv2d",
+          "[6:28:55 pm] Repository cloned successfully.",
+          "[6:28:55 pm] Preparing files for upload...",
+          "[6:28:55 pm] Found 29 files to process.",
+          "[6:29:01 pm] All files uploaded to Vercel storage.",
+          "[6:29:01 pm] Initiating deployment...",
+          "[6:29:04 pm] Deployment initiated. ID: dpl_9Raio6peCuszMgEFxZ4A5Kmu5uPH",
+          "[6:29:08 pm] Vercel Status: BUILDING",
+          "[6:29:12 pm] Vercel Status: BUILDING",
+          "[6:29:16 pm] Vercel Status: BUILDING",
+          "[6:29:20 pm] Vercel Status: BUILDING",
+          "[6:29:24 pm] Vercel Status: BUILDING",
+          "[6:29:28 pm] Vercel Status: BUILDING",
+          "[6:29:32 pm] Deployment completed successfully!"
+        ],
+        "timestamp": "2026-02-07T12:58:52.187Z",
+        "url": "https://rabdomdeploymenttool-h5bebxcfb-swamis-projects-c46278af.vercel.app"
+      }
+    ]
+  ],
+  "clones": [
+    [
+      "3wsd1l",
+      {
+        "id": "3wsd1l",
+        "repoUrl": "https://github.com/Kshatriyaswami/tentacion-cakes-menu",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-3wsd1l",
+        "timestamp": "2026-02-06T14:45:37.569Z"
+      }
+    ],
+    [
+      "yauu8b",
+      {
+        "id": "yauu8b",
+        "repoUrl": "https://github.com/Kshatriyaswami/tentacion-cakes-menu",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-yauu8b",
+        "timestamp": "2026-02-06T14:58:31.771Z"
+      }
+    ],
+    [
+      "3vewuk",
+      {
+        "id": "3vewuk",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-3vewuk",
+        "timestamp": "2026-02-06T15:04:47.794Z"
+      }
+    ],
+    [
+      "9juxz",
+      {
+        "id": "9juxz",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-9juxz",
+        "timestamp": "2026-02-06T15:08:35.551Z"
+      }
+    ],
+    [
+      "ap478",
+      {
+        "id": "ap478",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-ap478",
+        "timestamp": "2026-02-06T15:11:00.043Z"
+      }
+    ],
+    [
+      "ygogxm",
+      {
+        "id": "ygogxm",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-ygogxm",
+        "timestamp": "2026-02-06T15:24:31.965Z"
+      }
+    ],
+    [
+      "vhq26e",
+      {
+        "id": "vhq26e",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-vhq26e",
+        "timestamp": "2026-02-06T15:26:53.106Z"
+      }
+    ],
+    [
+      "x3dmsb",
+      {
+        "id": "x3dmsb",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-x3dmsb",
+        "timestamp": "2026-02-06T15:28:16.521Z"
+      }
+    ],
+    [
+      "t3wetf",
+      {
+        "id": "t3wetf",
+        "repoUrl": "https://github.com/Kshatriyaswami/randomdevtool",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-t3wetf",
+        "timestamp": "2026-02-06T15:35:26.282Z"
+      }
+    ],
+    [
+      "4svv2d",
+      {
+        "id": "4svv2d",
+        "repoUrl": "https://github.com/Kshatriyaswami/rabdomdeploymenttool",
+        "path": "D:\\one_click_deployment\\temp_deployments\\deploy-4svv2d",
+        "timestamp": "2026-02-07T12:58:55.884Z"
+      }
+    ]
+  ]
+}
